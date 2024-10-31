@@ -8,9 +8,6 @@
 - [Estructura de la Base de Datos](#estructura-de-la-base-de-datos)
 - [Requisitos](#requisitos)
 - [Instrucciones de Uso](#instrucciones-de-uso)
-- [Consultas de Ejemplo](#consultas-de-ejemplo)
-- [Triggers](#triggers)
-- [Inserciones de Datos](#inserciones-de-datos)
 
 
 ## Descripción del Proyecto
