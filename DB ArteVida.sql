@@ -1,5 +1,4 @@
 /*
-       Alejandro López de Sancha
        ArteVida Cultural
 */
 
